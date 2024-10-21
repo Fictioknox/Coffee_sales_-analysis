@@ -34,3 +34,14 @@ Here are some challenges I tackled:
 **Handling Missing Values:** Like finding a misplaced sugar packet, I filled the gaps where needed and checked for any null values. (because bad data leads to bad brews).<br>
 
 **Data Cleaning:** We removed any duplicates and irrelevant info to ensure we were working with clean, high-quality data—just like a well-brewed cup of coffee.<br>
+
+## 4. 📈 Key Performance Indicators (KPIs)
+I focused on key metrics that give a snapshot of the shop’s overall performance. Here’s what I measured:
+
+**Total Sales:** The shop's lifeblood, broken down across time frames (monthly, daily, etc.). <br>
+
+**Total Footfall:** How many people are walking through the doors? Are they window shopping or actually making purchases? <br>
+
+**Average Revenue Per Person:** What’s the average amount a customer spends when they visit? Are we getting just coffee or adding those delicious pastries to the mix? <br>
+
+**Average Order Per Person:** How much is each person buying per visit? Are people sticking to single items or indulging in full meals? <br>
