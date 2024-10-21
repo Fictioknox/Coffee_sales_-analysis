@@ -16,8 +16,8 @@ Whether it’s figuring out the best times to brew more coffee or highlighting s
 ## 2. 📋 Understanding the Data
 Our dataset is like a perfectly crafted latte—it’s got all the good stuff! Here’s what’s in it:
 
-Transactions: Every sale, large or small, across different stores. <br>
-Dates & Times: When each cup was sold—useful for identifying daily trends and rush hours. <br>
+**Transactions: **   Every sale, large or small, across different stores. <br>
+ Dates & Times: When each cup was sold—useful for identifying daily trends and rush hours. <br>
 Product Details: From gourmet coffee to baked goods, each item has its own identity. <br>
 Locations: Multiple stores across different areas, giving us a sense of regional performance. <br>
 
