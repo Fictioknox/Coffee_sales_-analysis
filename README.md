@@ -30,5 +30,7 @@ This rich data set is a goldmine for uncovering patterns in customer behavior an
 Here are some challenges I tackled:
 
 **Editing Formats:** Standardizing date and time formats to make sure everything was in sync.<br>
-**Handling Missing Values:** Like finding a misplaced sugar packet, we filled the gaps where needed, but some data had to be tossed out (because bad data leads to bad brews).<br>
+
+**Handling Missing Values:** Like finding a misplaced sugar packet, I filled the gaps where needed and checked for any null values. (because bad data leads to bad brews).<br>
+
 **Data Cleaning:** We removed any duplicates and irrelevant info to ensure we were working with clean, high-quality data—just like a well-brewed cup of coffee.<br>
