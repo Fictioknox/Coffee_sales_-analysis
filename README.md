@@ -6,8 +6,8 @@ In this project, I brewed up some powerful insights and stirred in a bit of busi
 ## 🎯 Purpose of the Analysis
 The goal of this analysis is to uncover key business insights from the coffee shop’s sales data. I wanted to dig deeper into customer behavior, product performance, and revenue trends to brew up recommendations that can:
 
-Boost revenue
-Optimize product offerings
-Improve customer experience
-Maximize store efficiency
+Boost revenue <br>
+Optimize product offerings <br>
+Improve customer experience <br>
+Maximize store efficiency <br>
 Whether it’s figuring out the best times to brew more coffee or highlighting star products, this analysis brings a full-flavored understanding of the shop’s operations!
