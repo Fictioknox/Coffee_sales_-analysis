@@ -3,6 +3,16 @@
 ### Welcome to the ultimate breakdown of our coffee shop’s sales data!
 In this project, I brewed up some powerful insights and stirred in a bit of business strategy to help our favorite coffee spot thrive! Here's a quick overview of the project and how I percolated through the data to uncover meaningful results. Grab a cup of your favorite brew, and let’s get started!
 
+
+## Tools Used
+**Excel (Pivot Tables, Slicers, Dashboards)** <br>
+**Power Query Editor (Data Transformation)** <br>
+**Data Visualization (Interactive Dashboards)** <br>
+<br>
+**I also made an iteraactive dashboard with slices, graphs, charts, kpi's to demonstrate the diofferent measures and data.**
+![Interactive dashboard](https://github.com/user-attachments/assets/6ed16974-bdd9-40bf-afcd-233d86dc1f3d)
+
+
 ## 🎯 Purpose of the Analysis
 The goal of this analysis is to uncover key business insights from the coffee shop’s sales data. I wanted to dig deeper into customer behavior, product performance, and revenue trends to brew up recommendations that can:
 
@@ -69,4 +79,6 @@ Recommendation: Stock up on these winners and feature them more prominently in m
 **4.📊 Store-wise Revenue & Footfall** <br>
 Insight: The Lower Manhattan location consistently outperforms others in terms of footfall and revenue, likely due to its high-traffic location.<br>
 Recommendation: Invest in advertising or loyalty programs specific to this store to capitalize on its high performance. Alternatively, investigate underperforming locations and consider changes in marketing strategy or product offerings.<br>
+
+#### And that’s the scoop! I might expand this into the future and include more insights as I expand my skillset.
 
