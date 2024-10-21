@@ -10,4 +10,5 @@ Boost revenue <br>
 Optimize product offerings <br>
 Improve customer experience <br>
 Maximize store efficiency <br>
+
 Whether it’s figuring out the best times to brew more coffee or highlighting star products, this analysis brings a full-flavored understanding of the shop’s operations!
