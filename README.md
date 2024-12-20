@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis (2023) 📊
+# ☕ Coffee Shop Sales Analysis 📊
 
 ### Welcome to the ultimate breakdown of our coffee shop’s sales data!
 In this project, I brewed up some powerful insights and stirred in a bit of business strategy to help our favorite coffee spot thrive! Here's a quick overview of the project and how I percolated through the data to uncover meaningful results. Grab a cup of your favorite brew, and let’s get started!
