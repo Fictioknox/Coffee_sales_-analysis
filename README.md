@@ -9,7 +9,7 @@ In this project, I brewed up some powerful insights and stirred in a bit of busi
 **Power Query Editor (Data Transformation)** <br>
 **Data Visualization (Interactive Dashboards)** <br>
 <br>
-**I also made an iteraactive dashboard with slices, graphs, charts, kpi's to demonstrate the diofferent measures and data.**
+**I also made an iteraactive dashboard with slices, graphs, charts, kpi's to demonstrate the different measures and data.**
 ![Interactive dashboard](https://github.com/user-attachments/assets/6ed16974-bdd9-40bf-afcd-233d86dc1f3d)
 
 
